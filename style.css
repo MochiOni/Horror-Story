@@ -13,7 +13,8 @@ img{
     width: 50%;
 }
  .letter {
-    font-family: 'Horror-type', sans-serif;
+    font-family: 'Flavors', sans-serif;
+    font-family: 'Griffy', system-ui;
     font-size: 14px;
     width: 80%;
     margin: 0 auto;
@@ -32,6 +33,7 @@ img{
 
  .letter-body {
     padding: 20px 0;
+    font-family: 'Griffy', system-ui;
  }
 
  .letter-footer {
